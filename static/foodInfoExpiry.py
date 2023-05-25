@@ -3,7 +3,7 @@ import openai
 
 # Set up OpenAI API credentials
 def generated_text():
-    openai.api_key = "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"
+    openai.api_key = "Your API Key"
     
     #global query
     query =  input("enter the name of food: ")
