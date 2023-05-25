@@ -5,7 +5,7 @@ def ppt(valter1234567):
 
 # Set up OpenAI API credentials
     def generated_text():
-        openai.api_key = "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"
+        openai.api_key = "Your API Key"
     
         global query
         query =  valter1234567
